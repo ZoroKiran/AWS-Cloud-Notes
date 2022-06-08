@@ -1,0 +1,10 @@
+
+AWS provides free resources, some are always free, while some are free for a year. Rest of the cloud resources require some paymnet.
+We can setup free tier billing alarm if in case we go beyond free tier provided resource consumption level.
+We can search "aws free tier" - "aws.amazon.com/free"
+
+You can create 1 year free account. You need to provide credit card detail so that amazon knows it is real person.
+
+Choose "personl" if you are creating for yourself. In case, if you are creating for your company then choose "professional".
+
+
