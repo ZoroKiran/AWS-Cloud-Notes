@@ -1,0 +1,6 @@
+VPC is similar to a network. Inside the network, we have subnets where we can host the AWS resources like EC2.
+Then you link the internet gateway to the VPC. In the route table we can write to allow in and out connection from /to VPC.
+IPv4 CIDR Block: 192.168.0.0/16 this gives 65000 addresses. Here /16 is the CIDR block. This should also suffuce for 3-tier architecture.
+IPv6 can be useful if we are going to have millions of IoT devices connected to the cloud. Otherwise, IPv4 is enough for regular corporate operation.
+
+SG are at resource level, while NACLs are at Subnet level.
